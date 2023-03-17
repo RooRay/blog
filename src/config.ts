@@ -1,17 +1,17 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/",
-  author: "Sat Naing",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  website: "https://107f6546.blog-vjg.pages.dev/",
+  author: "RooRay",
+  desc: "My blog where I talk about everything from tech to food!",
+  title: "RooRay's Blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
 
 export const LOGO_IMAGE = {
-  enable: false,
+  enable: true,
   svg: true,
   width: 216,
   height: 46,
@@ -20,38 +20,39 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: ` ${SITE.title} on Github`,
+    href: "https://github.com/RooRay",
+    linkTitle: `View ${SITE.author} on Github`,
     active: true,
   },
   {
-    name: "Facebook",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Facebook`,
+    name: "Twitter",
+    href: "https://twitter.com/satnaing/astro-paper",
+    linkTitle: `Follow ${SITE.author} on Twitter`,
     active: true,
   },
+  {
+    name: "Discord",
+    href: "https://discord.com/users/347083401141944333/",
+    linkTitle: `Message ${SITE.author} on Discord`,
+    active: true,
+  },
+  {
+    name: "Mail",
+    href: "mailto:blog@rooray.xyz",
+    linkTitle: `Send an email to ${SITE.author}`,
+    active: true,
+  },
+  // Socials below this line aren't used
   {
     name: "Instagram",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Instagram`,
-    active: true,
+    active: false,
   },
   {
     name: "LinkedIn",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on LinkedIn`,
-    active: true,
-  },
-  {
-    name: "Mail",
-    href: "mailto:yourmail@gmail.com",
-    linkTitle: `Send an email to ${SITE.title}`,
-    active: false,
-  },
-  {
-    name: "Twitter",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Twitter`,
     active: false,
   },
   {
@@ -94,12 +95,6 @@ export const SOCIALS: SocialObjects = [
     name: "CodePen",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on CodePen`,
-    active: false,
-  },
-  {
-    name: "Discord",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Discord`,
     active: false,
   },
   {
