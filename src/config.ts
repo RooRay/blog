@@ -3,18 +3,18 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://107f6546.blog-vjg.pages.dev/",
   author: "RooRay",
-  desc: "My blog where I talk about everything from tech to food!",
+  desc: "My blog where I talk about all sorts of fascinating technology!",
   title: "RooRay's Blog",
   ogImage: "astropaper-og.jpg",
-  lightAndDarkMode: true,
-  postPerPage: 3,
+  lightAndDarkMode: false,
+  postPerPage: 4,
 };
 
 export const LOGO_IMAGE = {
   enable: true,
   svg: true,
-  width: 216,
-  height: 46,
+  width: 215,
+  height: 45,
 };
 
 export const SOCIALS: SocialObjects = [
@@ -26,7 +26,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Twitter",
-    href: "https://twitter.com/satnaing/astro-paper",
+    href: "https://twitter.com/Roo_Ray_",
     linkTitle: `Follow ${SITE.author} on Twitter`,
     active: true,
   },
