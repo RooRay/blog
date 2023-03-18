@@ -4,7 +4,7 @@ pubDatetime: 2023-03-18T00:29:29+00:00
 title: Hello, world!
 postSlug: adding-new-posts-in-astropaper-theme
 featured: true
-draft: true
+draft: false
 tags:
   - hello-world
 description: Hello, and welcome to my new blog. Powered by Astro, the AstroPaper theme and Cloudflare Pages!
@@ -18,7 +18,7 @@ Welcome to my brand new blog powered by Astro, the AstroPaper theme by Sat Naing
 
 I didn't get this site running until my sixth attempt. See the image belo below:
 
-![A screenshot showing the Cloudflare Pages dashboard](https://cdn.rooray.xyz/krSzyP.png)
+![A screenshot showing the Cloudflare Pages dashboard](/media/hello-world/cfdash.png)
 
 This was partly due to NodeJS-related errors. For example, Astro demanded I used a newer NodeJS version than Cloudflare Pages defaulted to, causing builds to fail. Unfortunately sine I was new to Cloudflare Pages and Vercel, the platform I originally intended to use, didn't work at the time, I had to go through some docs, eventually finding how to set the version. In the end I used Cloudflare's panel to effectively do the equivalent of:
 
