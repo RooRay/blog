@@ -1,6 +1,6 @@
 ---
 author: RooRay
-pubDatetime: 2023-03-18:00:00Z
+pubDatetime: 2023-03-18T00:29:29+00:00
 title: Hello, world!
 postSlug: adding-new-posts-in-astropaper-theme
 featured: true
