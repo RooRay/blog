@@ -20,7 +20,7 @@ Welcome to my brand new blog powered by [Astro](https://astro.build), the [Astro
 
 I didn't get this site running until my sixth attempt. See the image below:
 
-![A screenshot showing the Cloudflare Pages dashboard](../media/hello-world/cfdash.png)
+![A screenshot showing the Cloudflare Pages dashboard](https://blogcdn.rooray.xyz/hello-world/cfdash.png)
 
 This was partly due to NodeJS-related errors. For example, Astro demanded I used a newer NodeJS version than Cloudflare Pages defaulted to, causing builds to fail.
 
@@ -36,7 +36,7 @@ After that, it was mostly just small issues like some images being broken and fi
 
 The colour scheme of this site is based on the background of my landing page, [rooray.xyz](https://rooray.xyz). I used the darkest and brightest colours to make the background and accent colours respectively. I also modified some of them slightly for things like accent colours!
 
-![The background picture for my landing page website](../media/hello-world/websitebg.png)
+![The background picture for my landing page website](https://blogcdn.rooray.xyz/hello-world/websitebg.png)
 
 I also added in proper social media icons and my branding and then that was that!
 
