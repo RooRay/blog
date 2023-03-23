@@ -1,11 +1,11 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://107f6546.blog-vjg.pages.dev/",
+  website: "https://blog-rc.rooray.xyz/",
   author: "RooRay",
   desc: "My blog where I talk about all sorts of fascinating technology!",
   title: "RooRay's Blog",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "wordmark.png",
   lightAndDarkMode: false,
   postPerPage: 4,
 };

@@ -1,36 +1,29 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About Me (and this Blog)"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
-
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+Hey! I'm RooRay and welcome to my blog. Here I talk about anything and everything I find fascinating in life, mostly technology though.
 
 ## Tech Stack
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+This website is hosted by Cloudflare (via Cloudflare Pages) and is made with [Astro](https://astro.build) with a really nice template called [AstroPaper](https://github.com/satnaing/astro-paper). It uses JavaScript (with some TypeScript) for most things and also a little bit of ReactJS. TailwindCSS is used for styling and Markdown is used for the actual blog contents.
 
-## Features
+## Contact
 
-Here are certain features of this site.
+If you want to contact me, I'd highly recommed using the social media icons in the footer, like:
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+- [emailing me](mailto:blog@rooray.xyz) 
+- [messaging me on Discord](https://discord.com/users/347083401141944333/)
+- [DMing me on Twitter](https://twitter.com/Roo_Ray_).
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+I do float around on other social media platforms from time to time but those are the ones I'm on most.
+
+## Contribute
+
+This blog is entirely open source [on GitHub](https://github.com/RooRay/blog). You can suggest changes if the above methods don't suffice (like articles) or even request code changes or heck even just look at the inner workings of this site!
+
+If there's anything you want changed, feel free to contact me via the methods above!
+
+Stay safe,
+RooRay
