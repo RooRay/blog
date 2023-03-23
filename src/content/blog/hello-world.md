@@ -8,6 +8,7 @@ draft: false
 tags:
   - hello-world
 description: Hello, and welcome to my new blog. Powered by Astro, the AstroPaper theme and Cloudflare Pages!
+ogImage: ""
 ---
 
 ## Table of contents

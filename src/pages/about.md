@@ -9,6 +9,8 @@ Hey! I'm RooRay and welcome to my blog. Here I talk about anything and everythin
 
 This website is hosted by Cloudflare (via Cloudflare Pages) and is made with [Astro](https://astro.build) with a really nice template called [AstroPaper](https://github.com/satnaing/astro-paper). It uses JavaScript (with some TypeScript) for most things and also a little bit of ReactJS. TailwindCSS is used for styling and Markdown is used for the actual blog contents.
 
+As for images, they're from a separate CDN powered by Cloudflare R2.
+
 ## Contact
 
 If you want to contact me, I'd highly recommed using the social media icons in the footer, like:
