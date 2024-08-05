@@ -24,8 +24,6 @@ I found this template whilst scrolling through the Vercel templates options for 
 
 Astro doesn't need an introduction, it's an amazing framework that I know shockingly little about. What I do know is that it's really fast, really powerful and helps you make really pretty blogs like this one. :)
 
----
-
 ### Giscus
 
 Giscus comes with Astro Micro as standard and until I used Astro Micro here I had never even heard of it before but I do wish I found it sooner.
@@ -33,8 +31,6 @@ Giscus comes with Astro Micro as standard and until I used Astro Micro here I ha
 It's shockingly simple to set up. All you do is go onto their [homepage](https://giscus.app) and go through the configuration steps. It honestly took me no more than a couple of minutes to set up and tweak some configurations in Astro Micro before it was up and running exactly how I wanted it.
 
 Giscus is super customisable to fit your preferences, you can change how it scans for discussions, the languages it uses, the discussions it uses, the way it displays everything, the theming it uses and much more. It is an awesome tool and I can't wait to use it again in future projects.
-
----
 
 ### Vercel
 
@@ -47,8 +43,6 @@ On one hand, it has some amazing, really polished features like its template sel
 Whilst some of the features Vercel offers are truly amazing, it's not perfect. Vercel is also quite keen on monetising its platform. Notable examples of this include heavily recommending features that are initially free but have limitations that require a paid upgrade but you aren't always informed of until after you need said upgrades. In fairness though, a lot of the industry doesthis too, including Netlify, but it's still behaviour that puts me off wanting to use it forever.
 
 In the future, I'd like to migrate this to Cloudflare Pages which Astro Micro appears to have had [some minor issues](https://github.com/trevortylerlee/astro-micro/issues/39) with in the past but hopefully, those should be cleared now.
-
----
 
 ### Cloudflare
 
@@ -85,6 +79,8 @@ Unfortunately, I've not really delved into command-line Git and I don't have any
 Why do I use both? I don't know. I prefer GitHub Desktop for cloning repos but then Visual Studio Code's implementation for actually committing changes and pushing them to GitHub.
 
 Regardless though, I love both very much and I can't wait to use them both for a long time to come.
+
+---
 
 ## Closing Thoughts
 
