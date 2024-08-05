@@ -6,3 +6,7 @@ draft: true
 ---
 
 ## About Me
+
+### Favourite Content Creators
+
+TODO: Something about James Channel here would be cool
