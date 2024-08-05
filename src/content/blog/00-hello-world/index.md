@@ -6,6 +6,6 @@ draft: false
 repoURL: "https://www.github.com/RooRay/blog-v3"
 ---
 
-## Hello!
+## Hello! Welcome to my blog!
 
 Hello, everbody! Welcome to my brand new blog powerewd by Vercel and the awesome work of Astro Micro.
