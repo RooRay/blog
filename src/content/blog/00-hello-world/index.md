@@ -48,7 +48,7 @@ In the future, I'd like to migrate this to Cloudflare Pages which Astro Micro ap
 
 Cloudflare needs no introduction. It's an amazing company with an extremely generous free tier that has allowed many hobbyists like myself to experiment with all sorts of cool tools.
 
-It has had some controversies with things like its moderation and billing practices over the years (for more info, see the controversies surrounding their handling [kiwifarms](https://www.theverge.com/2022/9/6/23339889/cloudflare-kiwi-farms-content-moderation-ddos)) and also its many, many outages but in my opinion, those are far outweighed by the benefits of Cloudflare.
+It has had some controversies with things like its moderation and billing practices over the years (for more info, see the controversies surrounding their handling of [kiwifarms](https://www.theverge.com/2022/9/6/23339889/cloudflare-kiwi-farms-content-moderation-ddos)) and also its many, many outages but in my opinion, those are far outweighed by the benefits of Cloudflare.
 
 Cloudflare offers loads of amazing free products like their DNS management services, also their DDoS protection that has saved many servers of mine, many times. Also, their very generous free tiers of Cloudflare Pages and Cloudflare Workers have allowed me to experiment with hosting websites and little projects all with incredible speed, scalability and reliability.
 
