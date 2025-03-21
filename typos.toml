@@ -21,8 +21,8 @@ extend-exclude = [
     # Code is primarily written in American English
     # .astro files sometimes have written language so don't exclude them!
     "*.ts",
-    ".css",
-    ".js",
+    "*.css",
+    "*.js",
 
     # Written entirely in American English
     "LICENSE"
