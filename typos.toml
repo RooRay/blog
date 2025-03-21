@@ -7,11 +7,14 @@ extend-ignore-re = [
 
     # Most usage of these words is in code where the american spelling is used or required
     "color",
+    "Color",
     "colors",
     "normalize",
     "center",
     "initalizing",
     "finalizing",
+    "behavior",
+    "ba", # should probably just exclude pagefind directory instead but oh well
     
 ]
 
