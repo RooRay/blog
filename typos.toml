@@ -1,0 +1,22 @@
+# Used by the typos action
+
+[default]
+locale = "en-gb"
+check-filename = true
+extend-ignore-re = [
+
+    # Most usage of these words is in code where the american spelling is used or required
+    # "example",
+    
+]
+
+[files]
+extend-exclude = [
+
+    # Code is primarily written in American English
+    "*.ts",
+
+    # Written entirely in American English
+    "LICENSE"
+    
+]
