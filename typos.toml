@@ -6,7 +6,12 @@ check-filename = true
 extend-ignore-re = [
 
     # Most usage of these words is in code where the american spelling is used or required
-    # "example",
+    "color",
+    "colors",
+    "normalize",
+    "center",
+    "initalizing",
+    "finalizing",
     
 ]
 
@@ -14,7 +19,10 @@ extend-ignore-re = [
 extend-exclude = [
 
     # Code is primarily written in American English
+    # .astro files sometimes have written language so don't exclude them!
     "*.ts",
+    ".css",
+    ".js",
 
     # Written entirely in American English
     "LICENSE"
