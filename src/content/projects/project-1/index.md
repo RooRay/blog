@@ -1,6 +1,6 @@
 ---
-title: "Homelab ft. Docker Compose Files"
-description: "How I find cool projects to deploy in my homelab and construct their Docker Compose files!"
+title: "Docker Compose Files"
+description: "Learn all about the cool services currently deployed in my homelab!"
 date: "2024-08-06 13:00"
 repoURL: "https://github.com/RooRay/DockerCompose"
 draft: true
