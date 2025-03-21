@@ -1,11 +1,37 @@
-# Introducing [Astro Micro 🔬](https://astro-micro.vercel.app/)
+# Blog (v3)
 
-Astro Micro is an accessible theme for Astro. It's a fork of [Mark Horn's](https://github.com/markhorn-dev) popular theme [Astro Nano](https://astro-nano-demo.vercel.app/). Like Nano, Micro comes with zero frameworks installed.
+This is the newest version of my blog, powered by Astro Micro and running on Vercel*
 
-Micro adds features like [Pagefind](https://pagefind.app) for search, [Giscus](https://giscus.app) for comments, and more. For a full list of changes, see this [blog post](https://astro-micro.vercel.app/blog/00-micro-changelog).
+This blog runs a (very slightly) modified version of Astro Micro with small changes and general config stuff
 
-Micro still comes with everything great about Nano — full type safety, a sitemap, an RSS feed, and Markdown + MDX support. Styled with TailwindCSS and preconfigured with system, light, and dark themes.
+## Why?
 
----
+I like writing, and I want to try this to talk about my interests, what I have learned and document my life experiences.
 
-![astro-micro-image](https://github.com/trevortylerlee/astro-micro/assets/49603972/ec5bc96a-3e96-4af1-a182-7711b54c5ef6)
+Even if this blog doesn't go very far, if I manage to help, inform, or entertain even just one person with it, I consider that a job well done.
+
+## Tech Stack
+
+- GitHub Desktop & VSCode - Development and Writing
+- Cloudflare - Domains and DNS management
+- Vercel* - Hosting and PR deployment management
+
+*Looking to change this to Cloudflare Pages in the future
+
+StackBlitz was previously used for some minor development work, however it doesn't actually work with this repository as it doesn't support *native* VS Code extensions
+
+## Local Installation
+
+Requires NodeJS version `20.3.0` or later, because Astro
+
+Clone the repository (I use GitHub Desktop for this but Git CLI also works well), then:
+```
+npm i
+```
+```
+npm run build
+```
+```
+npm run dev
+```
+A local server should now be running with the blog!
