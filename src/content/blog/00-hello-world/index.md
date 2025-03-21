@@ -3,7 +3,7 @@ title: "Hello, World!"
 description: "Welcome to my brand new blog! Powered by Vercel and Astro Micro!"
 date: "2024-08-06 00:25"
 draft: false
-repoURL: "https://www.github.com/RooRay/blog-v3"
+repoURL: "https://www.github.com/RooRay/blog"
 ---
 
 ## Hello! Welcome to my blog!

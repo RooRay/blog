@@ -1,0 +1,33 @@
+# Used by the typos action
+
+[default]
+locale = "en-gb"
+check-filename = true
+extend-ignore-re = [
+
+    # Most usage of these words is in code where the american spelling is used or required
+    "color",
+    "Color",
+    "colors",
+    "normalize",
+    "center",
+    "initalizing",
+    "finalizing",
+    "behavior",
+    "ba", # should probably just exclude pagefind directory instead but oh well
+    
+]
+
+[files]
+extend-exclude = [
+
+    # Code is primarily written in American English
+    # .astro files sometimes have written language so don't exclude them!
+    "*.ts",
+    "*.css",
+    "*.js",
+
+    # Written entirely in American English
+    "LICENSE"
+    
+]
