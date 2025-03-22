@@ -1,6 +1,6 @@
 # Blog (v3)
 
-This is the newest version of my blog, powered by Astro Micro and running on Vercel*
+This is the newest version of my blog, powered by Astro Micro and running on Cloudflare Pages
 
 This blog runs a (very slightly) modified version of Astro Micro with small changes and general config stuff
 
@@ -14,9 +14,7 @@ Even if this blog doesn't go very far, if I manage to help, inform, or entertain
 
 - GitHub Desktop & VSCode - Development and Writing
 - Cloudflare - Domains and DNS management
-- Vercel* - Hosting and PR deployment management
-
-*Looking to change this to Cloudflare Pages in the future
+- Cloudflare Pages - Hosting and PR deployment management
 
 StackBlitz was previously used for some minor development work, however it doesn't actually work with this repository as it doesn't support *native* VS Code extensions
 
