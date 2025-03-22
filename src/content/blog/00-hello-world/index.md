@@ -6,6 +6,10 @@ draft: false
 repoURL: "https://www.github.com/RooRay/blog"
 ---
 
+**Edit (22nd Mar 2025)**: This blog is now hosted on Cloudflare Pages, not Vercel. However, I'm keeping the old article for archival purposes (it's also a more fun story)
+
+---
+
 ## Hello! Welcome to my blog!
 
 Hello, everybody! Welcome to my brand new blog powered by Vercel and the awesome work of Astro Micro.
